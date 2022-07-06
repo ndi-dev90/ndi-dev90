@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndi-dev90
-- 🌱 I’m currently learning Flutter/Dart
+- 🌱 I’m currently in Flutter/Dart, NodeJS servers as well as Vue and React apps. And trying to make some experiments of TensorFlow.
 - 📫 How to reach me: ndi.dev90@gmail.com
 
 <!---
