@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndi-dev90
-- 🌱 I’m currently in Flutter/Dart, NodeJS servers as well as Vue, Angular and React apps. And trying to make some experiments of TensorFlow.
+- 🌱 I’m currently in Laravel/Vue, Flutter/Dart, NodeJS servers as well as Vue, Angular and React apps. And trying to make some experiments of TensorFlow.
 - 📫 How to reach me: ndi.dev90@gmail.com
 
 <!---
